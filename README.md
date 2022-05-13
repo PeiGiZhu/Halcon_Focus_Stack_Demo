@@ -32,7 +32,8 @@ A simple demo for Focus Stack using Halcon 20.11
 ### Example
 - Focus levels
 
-<img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step0.jpg"/><img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step1.jpg"/><img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step2.jpg"/><img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step3.jpg"/><img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step4.jpg"/><img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step5.jpg"/>
+<img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step0.jpg"/><img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step1.jpg"/><img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step2.jpg"/>
+<img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step3.jpg"/><img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step4.jpg"/><img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step5.jpg"/>
 
 - Result
 <img width="200" height="150" src="https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/SharpenedImage_ring.jpg"/>
