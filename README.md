@@ -30,8 +30,15 @@ A simple demo for Focus Stack using Halcon 20.11
 - Recombine R, G, B image into jpg image.(halcon.append_channel(...) )
 
 ### Example
-
-
+- Focus levels
+  - ![image](https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step0.jpg)
+  - ![image](https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step1.jpg)
+  - ![image](https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step2.jpg)
+  - ![image](https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step3.jpg)
+  - ![image](https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step4.jpg)
+  - ![image](https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/input/step5.jpg)
+- Result
+  - ![image](https://raw.githubusercontent.com/PeiGiZhu/Halcon_Focus_Stack_Demo/main/SharpenedImage_ring.jpg)
 
 ### Referance
 
